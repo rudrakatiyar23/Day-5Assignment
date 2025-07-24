@@ -1,0 +1,14 @@
+
+ .box{
+     height:300px;
+    width:300px;
+    border: 2px solid black;
+    transition: background-color 200ms ease-in, opacity 200ms ease-in;
+ }
+ .box:hover {
+ background-color: #fddb3a;
+ opacity: 1;
+ }
+ 
+
+ 
